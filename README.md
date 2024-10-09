@@ -19,7 +19,7 @@ git push -u origin main
 ## Install external dependencies
 
 ```shell
-py -m pip install jupyterlab numpy pandas pyarrow matplotlib seaborn scipy
+py -m pip install jupyterlab numpy pandas pyarrow matplotlib seaborn scipy scikit-learn
 ```
 
 ## Update REPO with updated README, .venv, external dependencies, and Jupyter Notebook
