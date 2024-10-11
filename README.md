@@ -29,3 +29,9 @@ py commit -m "updated README and added .venv, external dependencies, and Jupyter
 git push -u origin main
 ```
 
+## Update REPO with updated README, Final Project 7 including Bonus
+```shell
+py add.
+py commit -m "final update to README, finalized Project 7, included Bonus"
+git push -u origin main
+```
